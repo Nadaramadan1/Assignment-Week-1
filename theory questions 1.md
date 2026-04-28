@@ -79,11 +79,11 @@ They are used in:
 
 In Python/OpenCV, indexing follows **(row, column)**:
 
-- ✅ `img[y, x]`
+- `img[y, x]`
   - `y` → row (vertical axis)
   - `x` → column (horizontal axis)
 
-- ❌ `img[x, y]`
+- `img[x, y]`
   - Incorrect order
   - May give wrong values or errors  
 

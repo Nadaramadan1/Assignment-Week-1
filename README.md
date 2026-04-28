@@ -14,7 +14,7 @@ This project focuses on the fundamentals of **Digital Image Processing** and **C
 
 ## Built With
 
-- **Python 3.x**
+- **Python **
 - **OpenCV** — Image loading and processing
 - **NumPy** — Matrix operations
 - **Matplotlib** — Visualization
